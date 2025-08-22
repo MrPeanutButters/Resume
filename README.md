@@ -1,7 +1,7 @@
 # 📄 Chris Bebawy — Resume & Portfolio  
 
 Welcome! This repository contains my **up-to-date resume, cover letter, and homelab documentation**.  
-I’m a cybersecurity professional with 15+ years of enterprise IT experience and hands-on SOC expertise through a self-built homelab.  
+I’m a cybersecurity professional with 15+ years of enterprise IT experience and hands-on cybersecurity expertise through a self-built homelab.  
 
 ---
 
