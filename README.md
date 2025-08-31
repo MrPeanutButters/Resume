@@ -16,10 +16,8 @@ I’m a cybersecurity professional with 15+ years of enterprise IT experience an
 
 ## 📂 Files in This Repo  
 
-- [Resume](https://github.com/user-attachments/files/21936776/Chris.Bebawy_Resume.pdf)
+- [Resume](https://github.com/user-attachments/files/22067212/Chris.Bebawy_Resume.pdf)
 - [Cover Letter](https://github.com/user-attachments/files/21936784/Chris.Bebawy_Cover.Letter.pdf)
-
-
 
 ---
 
