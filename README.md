@@ -28,7 +28,7 @@ Welcome! This repository contains my **up-to-date resume, cover letter, and home
 - **IDS/IPS & Network Monitoring:** Suricata, Zeek, Cisco Meraki  
 - **Vulnerability Management:** Nessus Essentials, Ivanti patch automation & compliance  
 - **IAM & Data Protection:** Active Directory, Entra ID (Azure AD), Microsoft Purview (DLP, MFA, retention policies, Conditional Access), BeyondTrust  
-- **Frameworks & Compliance:** MITRE ATT&CK, NIST 800-53/800-61, CIS Controls, FedRAMP, ISO 27001  
+- **Frameworks & Compliance:** MITRE ATT&CK, NIST 800-171, 800-53/800-61, CIS Controls, FedRAMP, ISO 27001  
 - **Scripting & Automation:** PowerShell (AD/O365 automation, patching), Python (log parsing, automation)  
 - **Systems & Platforms:** Windows 10/11, Ubuntu, Kali Linux, macOS, SCCM, JAMF, Microsoft 365 Admin    
 
