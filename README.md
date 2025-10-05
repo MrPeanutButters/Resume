@@ -1,7 +1,7 @@
 # 📄 Chris Bebawy — Resume & Portfolio  
 
 Welcome! This repository contains my **up-to-date resume, cover letter, and homelab documentation**.  
-I’m a cybersecurity professional with 15+ years of enterprise IT experience and hands-on cybersecurity expertise through a self-built homelab.  
+
 
 ---
 
@@ -16,8 +16,8 @@ I’m a cybersecurity professional with 15+ years of enterprise IT experience an
 
 ## 📂 Files in This Repo  
 
-- [Resume](https://github.com/user-attachments/files/22314553/Chris_Bebawy_Resume_CA.pdf)
-- [Cover Letter](https://github.com/user-attachments/files/22314557/Chris.Bebawy_Cover.Letter.pdf)
+- [Resume](https://github.com/user-attachments/files/22709546/Chris-Bebawy.pdf)
+- [Cover Letter](https://github.com/user-attachments/files/22709549/Chris.Bebawy_Cover.Letter.docx)
 
 ---
 
